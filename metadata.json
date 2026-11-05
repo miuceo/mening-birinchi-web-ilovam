@@ -1,0 +1,6 @@
+{
+  "name": "The Editorial",
+  "description": "An elegant, high-contrast digital journal, exhibition gallery, and design boutique styled with a premium editorial aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
